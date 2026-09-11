@@ -76,19 +76,23 @@ Each report aims to demonstrate corporate-style reporting:
 
 • Conclusion 
 
+# DISCLAIMER 
+
+The documented assessments and activities were conducted in authorized 
+and controlled environments for educational purposes only. 
+
 # WRITE-UPS 
 
 My write-ups demonstrated my approach, methodology, the steps taken to 
 gain access to the target, and the reasoning behind each action performed. 
 The documentations attempt to show my mindset and thoughts while 
-performing the assessments. In this document, I have featured one write-up 
-for demonstration purposes. 
+performing the assessments. These can be found in the "Write-ups folder"
 
 # REPORTS 
 
 These are the reports that document and communicate my findings on the 
 given targets. Each report is structured to demonstrate corporate-style 
-reporting. 
+reporting. The reports can be found in the "Reports" folder.
 
 Each report includes: 
 
@@ -106,8 +110,6 @@ Each report includes:
 
 • Conclusion 
 
-The featured report demonstrates professional communication of my 
-findings and remediation recommendations for those findings. 
 
 # RELEVANT CERTIFICATIONS 
 
