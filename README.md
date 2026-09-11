@@ -86,7 +86,7 @@ and controlled environments for educational purposes only.
 My write-ups demonstrated my approach, methodology, the steps taken to 
 gain access to the target, and the reasoning behind each action performed. 
 The documentations attempt to show my mindset and thoughts while 
-performing the assessments. These can be found in the "Write-ups folder"
+performing the assessments. These can be found in the "Write-ups" folder.
 
 # REPORTS 
 
